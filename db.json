@@ -1,0 +1,28 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "",
+      "titulo": "teste",
+      "decrição": "testando o json"
+    },
+    {
+      "id": 2,
+      "imagem": "",
+      "titulo": "teste de json",
+      "decrição": "testando novamente o json"
+    },
+    {
+      "id": 3,
+      "imagem": "",
+      "titulo": "teste",
+      "decrição": "testando o json"
+    },
+    {
+      "id": 4,
+      "imagem": "",
+      "titulo": "teste",
+      "decrição": "testando o json"
+    }
+  ]
+}
